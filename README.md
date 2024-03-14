@@ -1,6 +1,5 @@
 # Amazon-Clone
-harshitatechtribe.netlify.app
-
+https://harshitatechtribe.netlify.app
 ## Description
 - This project is an Amazon clone created with meticulous attention to detail to replicate the complex structure of the original Amazon website. The goal was to ensure an accurate representation of Amazon's layout and functionality.
 
